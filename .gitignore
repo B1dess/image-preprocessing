@@ -1,0 +1,6 @@
+/input
+/output_parallel
+/output_sequential
+*.log
+/.idea
+/__pycache__
